@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046681190221",
+    "project_id": "casaproy-3459f",
+    "storage_bucket": "casaproy-3459f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046681190221:android:64469a67eb55755efd0104",
+        "android_client_info": {
+          "package_name": "com.alex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANnao0TFi418amB8gURI50DzT3Sh0Iq74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
